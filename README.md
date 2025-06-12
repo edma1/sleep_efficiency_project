@@ -19,12 +19,20 @@ This project investigates factors influencing sleep efficiency (the ratio of act
 - H₁: At least one group differs
 - Result: Rejected H₀ - Exercise frequency affects sleep efficiency
 
-## Technologies Used
+## Python Packages Required
 ```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+```
+## Project Structure
+```
+sleep_efficiency_project/
+├── Sleep_Efficiency_Slides/                        # Contains slides deck used for presentation
+├── README.md                                       # This file
+├── Sleep_Efficiency.csv                            # Contains dataset
+└── Technical_Notebook_Sleep_Efficiency_Analysis/   # Jupyter notebooks with analysis
 ```
 
 ## Dataset Features
