@@ -29,10 +29,11 @@ import seaborn as sns
 ## Project Structure
 ```
 sleep_efficiency_project/
-├── Sleep_Efficiency_Slides/                        # Contains slides deck used for presentation
 ├── README.md                                       # This file
+├── Technical_Notebook_Sleep_Efficiency_Analysis/   # Jupyter notebooks with analysis
 ├── Sleep_Efficiency.csv                            # Contains dataset
-└── Technical_Notebook_Sleep_Efficiency_Analysis/   # Jupyter notebooks with analysis
+└── Sleep_Efficiency_Slides/                        # Contains slides deck used for presentation
+
 ```
 
 ## Dataset Features
