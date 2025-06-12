@@ -30,10 +30,9 @@ import seaborn as sns
 ```
 sleep_efficiency_project/
 ├── README.md                                       # This file
-├── Technical_Notebook_Sleep_Efficiency_Analysis/   # Jupyter notebooks with analysis
 ├── Sleep_Efficiency.csv                            # Contains dataset
-└── Sleep_Efficiency_Slides/                        # Contains slides deck used for presentation
-
+├── Sleep_Efficiency_Slides/                        # Contains slides deck used for presentation
+└── Technical_Notebook_Sleep_Efficiency_Analysis/   # Jupyter notebooks with analysis
 ```
 
 ## Dataset Features
